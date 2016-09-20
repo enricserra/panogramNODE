@@ -1,6 +1,8 @@
 Execute:
 
 npm install
+
+Then:
 nodejs panogram.js
 
 TESTURL:
