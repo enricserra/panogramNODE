@@ -1,0 +1,24 @@
+{
+  "name": "panogram_web_server",
+  "version": "1.0.0",
+  "description": "Tool to visualize pedigrees passed in the URL",
+  "main": "panogram.js",
+  "dependencies": {
+    "ejs-locals": "^1.0.2",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "panogram",
+    "pedigree",
+    "gel",
+    "clinical",
+    "interpretation",
+    "HPO"
+  ],
+  "author": "enric serra sanz",
+  "license": "GPL-3.0"
+}
